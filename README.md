@@ -35,7 +35,3 @@ After building, run:
 ```
 
 Ensure `schedule.txt` is in the same folder so schedules load correctly.
-
-## Notes
-- `tickets.txt` and `users.txt` are created/modified at runtime—do not commit them.
-- If you want to include sample user/ticket data for development, add clearly named template files (e.g. `tickets.sample.txt`) instead of committing runtime files.
