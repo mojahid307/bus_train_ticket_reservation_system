@@ -13,10 +13,3 @@ users.txt
 # IDE specific
 .vs/
 *.user
-
-#Specific files that i dont want to track
-
-User.cpp
-User.h
-Ticket.cpp
-Ticket.h
