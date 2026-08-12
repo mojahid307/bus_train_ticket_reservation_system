@@ -1,0 +1,3 @@
+BUS 101,City A,City B,09:00
+TRAIN 302,City C,City D,14:30
+BUS, Bogura, Dhaka, 09:30

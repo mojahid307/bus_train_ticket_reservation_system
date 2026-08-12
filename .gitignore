@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+*.ilk
+*.exe
+*.o
+*.obj
+
+# Runtime data files
+ticket.txt
+users.txt
+
+# IDE specific
+.vs/
+*.user
+
+#Specific files that i dont want to track
+
+User.cpp
+User.h
+Ticket.cpp
+Ticket.h
