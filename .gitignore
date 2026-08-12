@@ -1,6 +1,39 @@
 # Build artifacts
 bin/
 obj/
+Debug/
+Release/
+
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Compiled / linked files
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Runtime and log files
+tickets.txt
+users.txt
+*.log
+
+# OS files
+Thumbs.db
+desktop.ini
+*.DS_Store
+
+# Misc
+*.tmp
+# Build artifacts
+bin/
+obj/
 *.ilk
 *.exe
 *.o
@@ -9,6 +42,7 @@ obj/
 # Runtime data files
 ticket.txt
 users.txt
+schedule.txt
 
 # IDE specific
 .vs/
