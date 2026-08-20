@@ -12,11 +12,6 @@ Simple console-based C++ Bus and Train reservation system. Includes user/admin m
 - Project configuration: `BusTrainReservationSystem.cbp`, `CppProperties.json`
 - Sample/reference data: `schedule.txt`
 
-## Files ignored (do not push)
-- Build artifacts and folders: `bin/`, `obj/`, `Debug/`, `Release/`
-- Compiled and linker files: `*.exe`, `*.obj`, `*.ilk`, `*.pdb`
-- Runtime data: `tickets.txt`, `users.txt` (these are generated at runtime)
-- Editor/OS files: `.vs/`, `*.user`, `Thumbs.db`, `*.DS_Store`
 
 ## Build (Windows - MSVC `cl.exe`)
 Open a Developer Command Prompt or use your IDE. Example command (run from project folder):
